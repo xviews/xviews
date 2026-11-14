@@ -6,7 +6,7 @@
 
 | | Projekt | Worum geht's? | |
 |:-:|---|---|:-:|
-| <img src="bilder/stickpilot.png" width="56"> | **[Xviews&nbsp;Stickpilot](https://github.com/xviews/xviews-stickpilot)** | Der Tesla-USB-Stick, einfach gemacht: einrichten, befüllen, prüfen. Mit Kennzeichen-Generator und Dashcam-Viewer mit Fahrdaten. | **[⬇️&nbsp;Download](https://github.com/xviews/xviews-stickpilot/releases/latest)** |
+| <img src="bilder/stickpilot.png" width="56"> | **[Xviews&nbsp;Stickpilot](https://github.com/xviews/xviews-stickpilot)** | Der Tesla-USB-Stick, einfach gemacht: einrichten, befüllen, prüfen. Mit Kennzeichen-Generator und Dashcam-Viewer mit Fahrdaten. Für Windows und Mac. | **[⬇️&nbsp;Download](https://github.com/xviews/xviews-stickpilot/releases/latest)** |
 | <img src="bilder/glotzofon.png" width="56"> | **[Xviews&nbsp;Glotzofon](https://github.com/xviews/xviews-glotzofon)** | Bildschirm kurz zeigen, ohne Fernwartungs-App: Code weitergeben, Freunde schauen in der App zu. | **[⬇️&nbsp;Download](https://github.com/xviews/xviews-glotzofon/releases/latest)** |
 | <img src="bilder/pinwatch.png" width="56"> | **[Xviews&nbsp;PinWatch&nbsp;Widget](https://github.com/xviews/xviews-pinwatch-widget)** | Das Thermal Grizzly WireView Pro II live auf dem Display der CORSAIR VANGUARD 96. Inoffizielles Community-Projekt. | **[⬇️&nbsp;Download](https://github.com/xviews/xviews-pinwatch-widget/releases/latest)** |
 | <img src="bilder/umzugskiste.png" width="56"> | **[Michi's&nbsp;Umzugskiste](https://github.com/xviews/xviews-umzugskiste)** | Umzug auf einen neuen PC, ohne etwas zu vergessen: persönliche Daten finden, auf USB-Stick sichern und wiederherstellen. | **[⬇️&nbsp;Download](https://github.com/xviews/xviews-umzugskiste/releases/latest)** |
